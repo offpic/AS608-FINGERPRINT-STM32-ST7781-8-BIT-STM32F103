@@ -5,12 +5,12 @@ AS608 FINGERPRINT STM32 ST7781 8 BIT STM32F103
 
 LCD_D0----D7    PortA 0----7   
 
-LCD_RST         PB3
+LCD_RST    ----     PB3
 
-LCD_CS          PB4
+LCD_CS     ----     PB4
 
-LCD_RS          PB0
+LCD_RS    ----      PB0
 
-LCD_WR          PB1
+LCD_WR   ----       PB1
 
-LCD_RD          PB5
+LCD_RD    ----      PB5
